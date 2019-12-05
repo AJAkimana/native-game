@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "The first React Native application I accomplished",
+    "githubUrl": "https://github.com/AJAkimana/native-game"
   }
 }
